@@ -1,6 +1,7 @@
 # Asteroids on Steroids
 
-my first videogame, hope u like it
+my first videogame, hope u like it. heres a link where u can try it out
+https://51ngularity.github.io/unity3d/games/Asteroids_on_Steroids/WebGL/index.html
 
 Credits:
 
