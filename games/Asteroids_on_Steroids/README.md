@@ -1,5 +1,7 @@
 # Asteroids on Steroids
 
+my first videogame, hope u like it
+
 Credits:
 
 Game menu music: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500008
