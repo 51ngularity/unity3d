@@ -3,6 +3,9 @@
 my first videogame, hope u like it. heres a link where u can try it out
 https://51ngularity.github.io/unity3d/games/Asteroids_on_Steroids/WebGL/index.html
 
+Enjoy!
+
+
 Credits:
 
 Game menu music: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500008
@@ -15,4 +18,3 @@ Other sprites and animations are from the unity pllayground tutorial: https://le
 
 All scripts are my own creation, feel free to use them in your own projects
 
-Enjoy!
