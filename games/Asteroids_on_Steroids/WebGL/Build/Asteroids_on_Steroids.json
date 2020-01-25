@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Asteroids_on_Steroids",
+"dataUrl": "Asteroids_on_Steroids.data.unityweb",
+"wasmCodeUrl": "Asteroids_on_Steroids.wasm.code.unityweb",
+"wasmFrameworkUrl": "Asteroids_on_Steroids.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
